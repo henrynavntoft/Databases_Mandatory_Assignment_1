@@ -1,4 +1,4 @@
-Use examples from our own database, theory is okay, but examples is the best elaboration
+Use examples from our own database, theory is okay, but examples are the best elaboration
 
 Create the tabels in sqlite 
 
