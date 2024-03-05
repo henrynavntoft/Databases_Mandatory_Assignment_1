@@ -1,0 +1,6 @@
+Use examples from our own database, theory is okay, but examples is the best elaboration
+
+Create the tabels in sqlite 
+
+Make joins in sqlite with tabels
+
